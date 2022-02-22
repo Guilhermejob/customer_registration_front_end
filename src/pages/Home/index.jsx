@@ -4,7 +4,7 @@ import CanAccessClients from "../../components/CanAcessClients";
 import CanNotAccessClients from "../../components/CanNotAccess";
 
 const Home = () => {
-  const [token, setToken] = useState("");
+  const [havetoken, setHaveToken] = useState("");
 
   useEffect(() => {
     const token = JSON.parse(localStorage.getItem("@Bemol:token"));
@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <Container>
       <h1>Home</h1>
-      {token ? <CanAccessClients /> : <CanNotAccessClients />}
+      {havetoken ? <CanAccessClients /> : <CanNotAccessClients />}
     </Container>
   );
 };
