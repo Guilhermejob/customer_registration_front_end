@@ -8,7 +8,7 @@ const Home = () => {
 
   useEffect(() => {
     const token = JSON.parse(localStorage.getItem("@Bemol:token"));
-    setToken(token);
+    setHaveToken(token);
   }, []);
 
   return (
