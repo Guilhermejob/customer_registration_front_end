@@ -32,5 +32,11 @@ Primeiro de tudo faça o fork deste [repositório](https://github.com/Guilhermej
   - Responsável por Cadastrar o usuario OBS: Todos os campos são obrigatórios menos o de complemento
 - /customers
   - Responsavel por Listar todos os clientes/usuários cadastrados OBS: para acessar esta rota você precisará estar logado
+
+#
+
+## Back end
+
+Documentação do Back End que o projeto utiliza [repositório](https://github.com/Guilhermejob/customer_registration/blob/main/README.md)
    
 
