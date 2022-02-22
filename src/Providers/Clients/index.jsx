@@ -26,7 +26,6 @@ export const ClientsProvider = ({ children }) => {
       .post("/customer", data)
       .then((resp) => {
         setClients([...clients, data]);
-        console.log(resp);
       })
       .catch((e) => console.log(e));
   };

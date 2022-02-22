@@ -11,7 +11,6 @@ export const TokenProvider = ({ children }) => {
     const initialToken =
       JSON.parse(localStorage.getItem("@Bemol:token")) || false;
 
-    console.log(token, "PROVIDER TOKEN");
     setToken(initialToken);
   }, []);
 

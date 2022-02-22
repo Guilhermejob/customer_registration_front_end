@@ -2,9 +2,9 @@ import styled from "styled-components";
 import Img from "../../Assets/Img/planodefundo.jpeg";
 
 export const Container = styled.div`
-  background-image: url(${Img});
   width: 100vw;
   height: 100vh;
+  background-image: url(${Img});
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;

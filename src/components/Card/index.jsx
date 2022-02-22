@@ -1,7 +1,6 @@
 import { CardContainer } from "./styles";
 
 const Card = (props) => {
-  console.log(props.name, "HHHHHHHHHHHHHHHHH");
   return (
     <CardContainer>
       <div className="side">
