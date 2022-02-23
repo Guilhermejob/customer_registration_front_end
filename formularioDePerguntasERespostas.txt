@@ -1,9 +1,35 @@
 1. A solução deve ser disponibilizada em Cloud ou On-premise?
+Em Cloud, o Cloud já vem dominando o mercado, e por lidar com cadastro de clientes muitas
+vezes esses cadastros podem ter informações sensíveis, hospedando seus serviços em Cloud todos
+os dados ficaram mais seguros, alem de evitar perdas de dinheiro e tempo, pois não conta com
+Servidores fixos, podendo sofrer ataques, demora para implementação e uma equipe grande somente
+para fazer sua operação e manutenção
+
+
+
 
 2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa
 solução, responda qual ferramenta acreditas ser apropriada para o controle de
 tarefas da equipe, a ferramenta é ágil?
+Estou mais habituado a usar a metodologia Scrum, e para controle de tarefas e equipe o Trello,
+na parte de documentação gosto bastante do Notion, acho que são ferramentas ágeis e entregam muito bem o que propõem
+
+
+
+
+
 
 3. Você se sente capaz de liderar esta equipe? Por quê?
+    Dentro da aplicação que construi sim, pois sei todas as tecnologias usadas nela, me comunico bem
+não sou do tipo que faz pouco das idéias dos outros, mesmo depois que tiver 10 anos de carreira
+a idéia de um funcionário ou funcionária que teria entrado no dia anterior na empresa seriam validas
+
+
+
 4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+    Depois que a aplicação ganhasse um volume muito grande de acessos provavelmente trocaria o banco da dados por um com mais desempenho em buscas, novas features seriam implementadas, manutenções de códigos pois tem um bugzinho que não consegui solucionar a tempo.
+
+
+
 5. Acha válido esse desafio para o processo que está participando?
+    Acho sim, porem talvez uma dificultada acho que não faria mal, pois eu mesmo quis me desafiar um pouco mais e acabei implementando algumas coisas extras
